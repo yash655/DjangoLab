@@ -1,0 +1,1168 @@
+Script started on 2023-07-08 09:44:59+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+[?2004h]0;student@user-H410M-S2-V3: ~/yash/webdev[01;32mstudent@user-H410M-S2-V3[00m:[01;34m~/yash/webdev[00m$ script lol.txt[7Plol.txtsudo apt getinstall mailutilslol.txt[Kscript lol.txt[Kscript lol.txt[7Plol.txtsudo apt getinstall mailutilsx[K[6Papt getinsta[C[C[C[C[C[C[Cl mailx[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kpython [K3.10 manage.py runsrver
+[?2004lUnknown command: 'runsrver'. Did you mean runserver?
+Type 'manage.py help' for usage.
+[0m[?2004h]0;student@user-H410M-S2-V3: ~/yash/webdev[01;32mstudent@user-H410M-S2-V3[00m:[01;34m~/yash/webdev[00m$ python3.10 manage.py runsrvererver
+[?2004lWatching for file changes with StatReloader
+Performing system checks...
+
+System check identified no issues (0 silenced).
+[31m
+You have 18 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.[0m
+[31mRun 'python manage.py migrate' to apply them.[0m
+July 08, 2023 - 04:15:25
+Django version 3.2.12, using settings 'webdev.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+[08/Jul/2023 04:15:30] [m"GET / HTTP/1.1" 200 29900[0m
+[08/Jul/2023 04:15:42] [m"GET / HTTP/1.1" 200 29901[0m
+Not Found: /assets/vendor/bootstrap/js/bootstrap.bundle.min.js
+Not Found: /assets/vendor/waypoints/noframework.waypoints.js
+Not Found: /assets/vendor/purecounter/purecounter_vanilla.js
+[08/Jul/2023 04:15:42] [33m"GET /assets/vendor/purecounter/purecounter_vanilla.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/vendor/isotope-layout/isotope.pkgd.min.js
+[08/Jul/2023 04:15:42] [33m"GET /assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 404 2327[0m
+Not Found: /assets/vendor/swiper/swiper-bundle.min.js
+[08/Jul/2023 04:15:42] [33m"GET /assets/vendor/waypoints/noframework.waypoints.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/vendor/glightbox/js/glightbox.min.js
+[08/Jul/2023 04:15:42] [33m"GET /assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1" 404 2321[0m
+[08/Jul/2023 04:15:42] [33m"GET /assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1" 404 2300[0m
+Not Found: /assets/vendor/php-email-form/validate.js
+[08/Jul/2023 04:15:42] [33m"GET /assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1" 404 2306[0m
+Not Found: /assets/img/testimonials/testimonials-2.jpg
+[08/Jul/2023 04:15:42] [33m"GET /assets/vendor/php-email-form/validate.js HTTP/1.1" 404 2297[0m
+Not Found: /assets/img/testimonials/testimonials-1.jpg
+[08/Jul/2023 04:15:42] [33m"GET /assets/img/testimonials/testimonials-2.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/js/main.js
+[08/Jul/2023 04:15:42] [33m"GET /assets/img/testimonials/testimonials-1.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/img/testimonials/testimonials-3.jpg
+[08/Jul/2023 04:15:42] [33m"GET /assets/js/main.js HTTP/1.1" 404 2228[0m
+[08/Jul/2023 04:15:42] [33m"GET /assets/img/testimonials/testimonials-3.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/img/testimonials/testimonials-4.jpg
+[08/Jul/2023 04:15:42] [33m"GET /assets/img/testimonials/testimonials-4.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/img/portfolio/portfolio-2.jpg
+Not Found: /assets/img/testimonials/testimonials-5.jpg
+[08/Jul/2023 04:15:42] [33m"GET /assets/img/portfolio/portfolio-2.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-1.jpg
+[08/Jul/2023 04:15:42] [33m"GET /assets/img/testimonials/testimonials-5.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/img/portfolio/portfolio-4.jpg
+[08/Jul/2023 04:15:42] [33m"GET /assets/img/portfolio/portfolio-1.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-3.jpg
+[08/Jul/2023 04:15:42] [33m"GET /assets/img/portfolio/portfolio-4.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:15:42] [33m"GET /assets/img/portfolio/portfolio-3.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-5.jpg
+[08/Jul/2023 04:15:42] [33m"GET /assets/img/portfolio/portfolio-5.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-6.jpg
+[08/Jul/2023 04:15:42] [33m"GET /assets/img/portfolio/portfolio-6.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-8.jpg
+[08/Jul/2023 04:15:42] [33m"GET /assets/img/portfolio/portfolio-8.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-9.jpg
+Not Found: /assets/img/portfolio/portfolio-7.jpg
+[08/Jul/2023 04:15:42] [33m"GET /assets/img/portfolio/portfolio-9.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:15:42] [33m"GET /assets/img/portfolio/portfolio-7.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:16:00] [m"GET / HTTP/1.1" 200 29901[0m
+Not Found: /assets/vendor/bootstrap/js/bootstrap.bundle.min.js
+Not Found: /assets/vendor/purecounter/purecounter_vanilla.js
+Not Found: /assets/vendor/waypoints/noframework.waypoints.js
+[08/Jul/2023 04:16:00] [33m"GET /assets/vendor/purecounter/purecounter_vanilla.js HTTP/1.1" 404 2321[0m
+[08/Jul/2023 04:16:00] [33m"GET /assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 404 2327[0m
+Not Found: /assets/vendor/glightbox/js/glightbox.min.js
+[08/Jul/2023 04:16:00] [33m"GET /assets/vendor/waypoints/noframework.waypoints.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/vendor/swiper/swiper-bundle.min.js
+[08/Jul/2023 04:16:00] [33m"GET /assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1" 404 2306[0m
+Not Found: /assets/vendor/isotope-layout/isotope.pkgd.min.js
+Not Found: /assets/vendor/php-email-form/validate.js
+Not Found: /assets/js/main.js
+[08/Jul/2023 04:16:00] [33m"GET /assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1" 404 2300[0m
+[08/Jul/2023 04:16:00] [33m"GET /assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/img/testimonials/testimonials-1.jpg
+[08/Jul/2023 04:16:00] [33m"GET /assets/vendor/php-email-form/validate.js HTTP/1.1" 404 2297[0m
+[08/Jul/2023 04:16:00] [33m"GET /assets/js/main.js HTTP/1.1" 404 2228[0m
+Not Found: /assets/img/testimonials/testimonials-2.jpg
+Not Found: /assets/img/testimonials/testimonials-3.jpg
+[08/Jul/2023 04:16:00] [33m"GET /assets/img/testimonials/testimonials-1.jpg HTTP/1.1" 404 2303[0m
+[08/Jul/2023 04:16:00] [33m"GET /assets/img/testimonials/testimonials-2.jpg HTTP/1.1" 404 2303[0m
+[08/Jul/2023 04:16:00] [33m"GET /assets/img/testimonials/testimonials-3.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/img/testimonials/testimonials-4.jpg
+[08/Jul/2023 04:16:00] [33m"GET /assets/img/testimonials/testimonials-4.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/img/portfolio/portfolio-1.jpg
+Not Found: /assets/img/testimonials/testimonials-5.jpg
+[08/Jul/2023 04:16:00] [33m"GET /assets/img/portfolio/portfolio-1.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-2.jpg
+[08/Jul/2023 04:16:00] [33m"GET /assets/img/testimonials/testimonials-5.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/img/portfolio/portfolio-3.jpg
+[08/Jul/2023 04:16:00] [33m"GET /assets/img/portfolio/portfolio-2.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-4.jpg
+[08/Jul/2023 04:16:00] [33m"GET /assets/img/portfolio/portfolio-3.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:16:00] [33m"GET /assets/img/portfolio/portfolio-4.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-5.jpg
+[08/Jul/2023 04:16:00] [33m"GET /assets/img/portfolio/portfolio-5.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-6.jpg
+Not Found: /assets/img/portfolio/portfolio-8.jpg
+[08/Jul/2023 04:16:00] [33m"GET /assets/img/portfolio/portfolio-6.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-7.jpg
+[08/Jul/2023 04:16:00] [33m"GET /assets/img/portfolio/portfolio-8.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:16:00] [33m"GET /assets/img/portfolio/portfolio-7.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-9.jpg
+[08/Jul/2023 04:16:00] [33m"GET /assets/img/portfolio/portfolio-9.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:16:04] [m"GET / HTTP/1.1" 200 29744[0m
+Not Found: /assets/img/testimonials/testimonials-1.jpg
+Not Found: /assets/img/testimonials/testimonials-2.jpg
+[08/Jul/2023 04:16:04] [33m"GET /assets/img/testimonials/testimonials-1.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/vendor/purecounter/purecounter_vanilla.js
+Not Found: /assets/vendor/bootstrap/js/bootstrap.bundle.min.js
+Not Found: /assets/vendor/isotope-layout/isotope.pkgd.min.js
+[08/Jul/2023 04:16:04] [33m"GET /assets/img/testimonials/testimonials-2.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/vendor/glightbox/js/glightbox.min.js
+[08/Jul/2023 04:16:04] [33m"GET /assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 404 2327[0m
+[08/Jul/2023 04:16:04] [33m"GET /assets/vendor/purecounter/purecounter_vanilla.js HTTP/1.1" 404 2321[0m
+[08/Jul/2023 04:16:04] [33m"GET /assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1" 404 2321[0m
+[08/Jul/2023 04:16:04] [33m"GET /assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1" 404 2306[0m
+Not Found: /assets/vendor/php-email-form/validate.js
+Not Found: /assets/vendor/swiper/swiper-bundle.min.js
+[08/Jul/2023 04:16:04] [33m"GET /assets/vendor/php-email-form/validate.js HTTP/1.1" 404 2297[0m
+Not Found: /assets/js/main.js
+Not Found: /assets/vendor/waypoints/noframework.waypoints.js
+[08/Jul/2023 04:16:04] [33m"GET /assets/js/main.js HTTP/1.1" 404 2228[0m
+Not Found: /assets/img/testimonials/testimonials-3.jpg
+[08/Jul/2023 04:16:04] [33m"GET /assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1" 404 2300[0m
+[08/Jul/2023 04:16:04] [33m"GET /assets/vendor/waypoints/noframework.waypoints.js HTTP/1.1" 404 2321[0m
+[08/Jul/2023 04:16:04] [33m"GET /assets/img/testimonials/testimonials-3.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/img/testimonials/testimonials-4.jpg
+[08/Jul/2023 04:16:04] [33m"GET /assets/img/testimonials/testimonials-4.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/img/testimonials/testimonials-5.jpg
+[08/Jul/2023 04:16:04] [33m"GET /assets/img/testimonials/testimonials-5.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/img/portfolio/portfolio-1.jpg
+[08/Jul/2023 04:16:04] [33m"GET /assets/img/portfolio/portfolio-1.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-4.jpg
+Not Found: /assets/img/portfolio/portfolio-2.jpg
+[08/Jul/2023 04:16:04] [33m"GET /assets/img/portfolio/portfolio-4.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-3.jpg
+[08/Jul/2023 04:16:04] [33m"GET /assets/img/portfolio/portfolio-2.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:16:04] [33m"GET /assets/img/portfolio/portfolio-3.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-5.jpg
+[08/Jul/2023 04:16:04] [33m"GET /assets/img/portfolio/portfolio-5.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-6.jpg
+[08/Jul/2023 04:16:04] [33m"GET /assets/img/portfolio/portfolio-6.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-7.jpg
+[08/Jul/2023 04:16:04] [33m"GET /assets/img/portfolio/portfolio-7.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-8.jpg
+[08/Jul/2023 04:16:04] [33m"GET /assets/img/portfolio/portfolio-8.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-9.jpg
+[08/Jul/2023 04:16:04] [33m"GET /assets/img/portfolio/portfolio-9.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:16:37] [m"GET /static/assets/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 589307[0m
+[08/Jul/2023 04:18:21] [m"GET / HTTP/1.1" 200 29731[0m
+Not Found: /assets/img/testimonials/testimonials-1.jpg
+[08/Jul/2023 04:18:21] [33m"GET /assets/img/testimonials/testimonials-1.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/vendor/isotope-layout/isotope.pkgd.min.js
+Not Found: /assets/img/testimonials/testimonials-2.jpg
+Not Found: /assets/vendor/purecounter/purecounter_vanilla.js
+[08/Jul/2023 04:18:21] [33m"GET /assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/vendor/bootstrap/js/bootstrap.bundle.min.js
+[08/Jul/2023 04:18:21] [33m"GET /assets/img/testimonials/testimonials-2.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/vendor/glightbox/js/glightbox.min.js
+[08/Jul/2023 04:18:21] [33m"GET /assets/vendor/purecounter/purecounter_vanilla.js HTTP/1.1" 404 2321[0m
+[08/Jul/2023 04:18:21] [33m"GET /assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 404 2327[0m
+[08/Jul/2023 04:18:21] [33m"GET /assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1" 404 2306[0m
+Not Found: /assets/vendor/swiper/swiper-bundle.min.js
+Not Found: /assets/js/main.js
+[08/Jul/2023 04:18:21] [33m"GET /assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1" 404 2300[0m
+Not Found: /assets/img/testimonials/testimonials-3.jpg
+[08/Jul/2023 04:18:21] [33m"GET /assets/js/main.js HTTP/1.1" 404 2228[0m
+Not Found: /assets/vendor/php-email-form/validate.js
+Not Found: /assets/vendor/waypoints/noframework.waypoints.js
+[08/Jul/2023 04:18:21] [33m"GET /assets/vendor/php-email-form/validate.js HTTP/1.1" 404 2297[0m
+[08/Jul/2023 04:18:21] [33m"GET /assets/img/testimonials/testimonials-3.jpg HTTP/1.1" 404 2303[0m
+[08/Jul/2023 04:18:21] [33m"GET /assets/vendor/waypoints/noframework.waypoints.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/img/testimonials/testimonials-4.jpg
+[08/Jul/2023 04:18:21] [33m"GET /assets/img/testimonials/testimonials-4.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/img/testimonials/testimonials-5.jpg
+[08/Jul/2023 04:18:21] [33m"GET /assets/img/testimonials/testimonials-5.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/img/portfolio/portfolio-1.jpg
+Not Found: /assets/img/portfolio/portfolio-2.jpg
+[08/Jul/2023 04:18:21] [33m"GET /assets/img/portfolio/portfolio-1.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:18:21] [33m"GET /assets/img/portfolio/portfolio-2.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-3.jpg
+[08/Jul/2023 04:18:21] [33m"GET /assets/img/portfolio/portfolio-3.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:18:21] [m"GET /static/assets/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 589307[0m
+Not Found: /assets/img/portfolio/portfolio-4.jpg
+[08/Jul/2023 04:18:21] [33m"GET /assets/img/portfolio/portfolio-4.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-5.jpg
+[08/Jul/2023 04:18:21] [33m"GET /assets/img/portfolio/portfolio-5.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-6.jpg
+[08/Jul/2023 04:18:21] [33m"GET /assets/img/portfolio/portfolio-6.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-7.jpg
+[08/Jul/2023 04:18:21] [33m"GET /assets/img/portfolio/portfolio-7.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-8.jpg
+Not Found: /assets/img/portfolio/portfolio-9.jpg
+[08/Jul/2023 04:18:21] [33m"GET /assets/img/portfolio/portfolio-8.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:18:21] [33m"GET /assets/img/portfolio/portfolio-9.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:21:53] [m"GET / HTTP/1.1" 200 29731[0m
+Not Found: /assets/img/testimonials/testimonials-1.jpg
+[08/Jul/2023 04:21:53] [33m"GET /assets/img/testimonials/testimonials-1.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/img/testimonials/testimonials-2.jpg
+Not Found: /assets/vendor/purecounter/purecounter_vanilla.js
+Not Found: /assets/vendor/bootstrap/js/bootstrap.bundle.min.js
+Not Found: /assets/vendor/glightbox/js/glightbox.min.js
+[08/Jul/2023 04:21:53] [33m"GET /assets/img/testimonials/testimonials-2.jpg HTTP/1.1" 404 2303[0m
+[08/Jul/2023 04:21:53] [33m"GET /assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 404 2327[0m
+Not Found: /assets/vendor/isotope-layout/isotope.pkgd.min.js
+[08/Jul/2023 04:21:53] [33m"GET /assets/vendor/purecounter/purecounter_vanilla.js HTTP/1.1" 404 2321[0m
+[08/Jul/2023 04:21:53] [33m"GET /assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1" 404 2306[0m
+[08/Jul/2023 04:21:53] [33m"GET /assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/img/testimonials/testimonials-3.jpg
+Not Found: /assets/vendor/swiper/swiper-bundle.min.js
+Not Found: /assets/vendor/php-email-form/validate.js
+[08/Jul/2023 04:21:53] [33m"GET /assets/img/testimonials/testimonials-3.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/js/main.js
+[08/Jul/2023 04:21:53] [33m"GET /assets/vendor/php-email-form/validate.js HTTP/1.1" 404 2297[0m
+Not Found: /assets/vendor/waypoints/noframework.waypoints.js
+[08/Jul/2023 04:21:53] [33m"GET /assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1" 404 2300[0m
+[08/Jul/2023 04:21:53] [33m"GET /assets/js/main.js HTTP/1.1" 404 2228[0m
+[08/Jul/2023 04:21:53] [33m"GET /assets/vendor/waypoints/noframework.waypoints.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/img/testimonials/testimonials-4.jpg
+[08/Jul/2023 04:21:53] [33m"GET /assets/img/testimonials/testimonials-4.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/img/testimonials/testimonials-5.jpg
+[08/Jul/2023 04:21:53] [33m"GET /assets/img/testimonials/testimonials-5.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/img/portfolio/portfolio-3.jpg
+Not Found: /assets/img/portfolio/portfolio-1.jpg
+[08/Jul/2023 04:21:53] [33m"GET /assets/img/portfolio/portfolio-3.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-2.jpg
+[08/Jul/2023 04:21:53] [33m"GET /assets/img/portfolio/portfolio-1.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:21:53] [33m"GET /assets/img/portfolio/portfolio-2.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:21:53] [m"GET /static/assets/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 589307[0m
+Not Found: /assets/img/portfolio/portfolio-4.jpg
+[08/Jul/2023 04:21:53] [33m"GET /assets/img/portfolio/portfolio-4.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-5.jpg
+[08/Jul/2023 04:21:53] [33m"GET /assets/img/portfolio/portfolio-5.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-9.jpg
+Not Found: /assets/img/portfolio/portfolio-7.jpg
+Not Found: /assets/img/portfolio/portfolio-6.jpg
+[08/Jul/2023 04:21:53] [33m"GET /assets/img/portfolio/portfolio-7.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-8.jpg
+[08/Jul/2023 04:21:53] [33m"GET /assets/img/portfolio/portfolio-9.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:21:53] [33m"GET /assets/img/portfolio/portfolio-6.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:21:53] [33m"GET /assets/img/portfolio/portfolio-8.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:22:34] [m"GET / HTTP/1.1" 200 29654[0m
+Not Found: /assets/img/testimonials/testimonials-2.jpg
+Not Found: /assets/img/testimonials/testimonials-1.jpg
+Not Found: /assets/vendor/purecounter/purecounter_vanilla.js
+Not Found: /assets/vendor/isotope-layout/isotope.pkgd.min.js
+[08/Jul/2023 04:22:34] [33m"GET /assets/img/testimonials/testimonials-1.jpg HTTP/1.1" 404 2303[0m
+[08/Jul/2023 04:22:34] [33m"GET /assets/img/testimonials/testimonials-2.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/vendor/bootstrap/js/bootstrap.bundle.min.js
+[08/Jul/2023 04:22:34] [33m"GET /assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/vendor/glightbox/js/glightbox.min.js
+[08/Jul/2023 04:22:34] [33m"GET /assets/vendor/purecounter/purecounter_vanilla.js HTTP/1.1" 404 2321[0m
+[08/Jul/2023 04:22:34] [33m"GET /assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 404 2327[0m
+Not Found: /assets/vendor/php-email-form/validate.js
+[08/Jul/2023 04:22:34] [33m"GET /assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1" 404 2306[0m
+Not Found: /assets/vendor/swiper/swiper-bundle.min.js
+Not Found: /assets/vendor/waypoints/noframework.waypoints.js
+Not Found: /assets/js/main.js
+[08/Jul/2023 04:22:34] [33m"GET /assets/vendor/php-email-form/validate.js HTTP/1.1" 404 2297[0m
+[08/Jul/2023 04:22:34] [33m"GET /assets/vendor/waypoints/noframework.waypoints.js HTTP/1.1" 404 2321[0m
+[08/Jul/2023 04:22:34] [33m"GET /assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1" 404 2300[0m
+Not Found: /assets/img/testimonials/testimonials-3.jpg
+[08/Jul/2023 04:22:34] [33m"GET /assets/js/main.js HTTP/1.1" 404 2228[0m
+[08/Jul/2023 04:22:34] [33m"GET /assets/img/testimonials/testimonials-3.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/img/testimonials/testimonials-4.jpg
+[08/Jul/2023 04:22:34] [33m"GET /assets/img/testimonials/testimonials-4.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/img/testimonials/testimonials-5.jpg
+[08/Jul/2023 04:22:34] [33m"GET /assets/img/testimonials/testimonials-5.jpg HTTP/1.1" 404 2303[0m
+[08/Jul/2023 04:22:34] [m"GET /static/assets/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 589307[0m
+Not Found: /assets/img/portfolio/portfolio-4.jpg
+Not Found: /assets/img/portfolio/portfolio-1.jpg
+[08/Jul/2023 04:22:34] [33m"GET /assets/img/portfolio/portfolio-4.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-2.jpg
+[08/Jul/2023 04:22:34] [33m"GET /assets/img/portfolio/portfolio-1.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-3.jpg
+[08/Jul/2023 04:22:34] [33m"GET /assets/img/portfolio/portfolio-2.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:22:34] [33m"GET /assets/img/portfolio/portfolio-3.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-5.jpg
+[08/Jul/2023 04:22:34] [33m"GET /assets/img/portfolio/portfolio-5.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-6.jpg
+[08/Jul/2023 04:22:34] [33m"GET /assets/img/portfolio/portfolio-6.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-7.jpg
+[08/Jul/2023 04:22:34] [33m"GET /assets/img/portfolio/portfolio-7.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-9.jpg
+Not Found: /assets/img/portfolio/portfolio-8.jpg
+[08/Jul/2023 04:22:34] [33m"GET /assets/img/portfolio/portfolio-8.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:22:34] [33m"GET /assets/img/portfolio/portfolio-9.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:24:23] [m"GET / HTTP/1.1" 200 29649[0m
+Not Found: /assets/img/testimonials/testimonials-2.jpg
+Not Found: /assets/img/testimonials/testimonials-1.jpg
+Not Found: /assets/vendor/isotope-layout/isotope.pkgd.min.js
+[08/Jul/2023 04:24:23] [33m"GET /assets/img/testimonials/testimonials-1.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/vendor/bootstrap/js/bootstrap.bundle.min.js
+[08/Jul/2023 04:24:23] [33m"GET /assets/img/testimonials/testimonials-2.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/vendor/purecounter/purecounter_vanilla.js
+[08/Jul/2023 04:24:23] [33m"GET /assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/vendor/glightbox/js/glightbox.min.js
+[08/Jul/2023 04:24:23] [33m"GET /assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 404 2327[0m
+[08/Jul/2023 04:24:23] [33m"GET /assets/vendor/purecounter/purecounter_vanilla.js HTTP/1.1" 404 2321[0m
+[08/Jul/2023 04:24:23] [33m"GET /assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1" 404 2306[0m
+Not Found: /assets/js/main.js
+Not Found: /assets/vendor/waypoints/noframework.waypoints.js
+[08/Jul/2023 04:24:23] [33m"GET /assets/js/main.js HTTP/1.1" 404 2228[0m
+Not Found: /assets/img/testimonials/testimonials-3.jpg
+[08/Jul/2023 04:24:23] [33m"GET /assets/vendor/waypoints/noframework.waypoints.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/vendor/php-email-form/validate.js
+[08/Jul/2023 04:24:23] [33m"GET /assets/img/testimonials/testimonials-3.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/vendor/swiper/swiper-bundle.min.js
+[08/Jul/2023 04:24:23] [33m"GET /assets/vendor/php-email-form/validate.js HTTP/1.1" 404 2297[0m
+[08/Jul/2023 04:24:23] [33m"GET /assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1" 404 2300[0m
+Not Found: /assets/img/testimonials/testimonials-4.jpg
+[08/Jul/2023 04:24:24] [33m"GET /assets/img/testimonials/testimonials-4.jpg HTTP/1.1" 404 2303[0m
+[08/Jul/2023 04:24:24] [m"GET /static/assets/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 589307[0m
+Not Found: /assets/img/testimonials/testimonials-5.jpg
+[08/Jul/2023 04:24:24] [33m"GET /assets/img/testimonials/testimonials-5.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/img/portfolio/portfolio-1.jpg
+[08/Jul/2023 04:24:24] [33m"GET /assets/img/portfolio/portfolio-1.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-4.jpg
+Not Found: /assets/img/portfolio/portfolio-3.jpg
+Not Found: /assets/img/portfolio/portfolio-2.jpg
+[08/Jul/2023 04:24:24] [33m"GET /assets/img/portfolio/portfolio-4.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:24:24] [33m"GET /assets/img/portfolio/portfolio-2.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:24:24] [33m"GET /assets/img/portfolio/portfolio-3.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-5.jpg
+[08/Jul/2023 04:24:24] [33m"GET /assets/img/portfolio/portfolio-5.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-6.jpg
+[08/Jul/2023 04:24:24] [33m"GET /assets/img/portfolio/portfolio-6.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-7.jpg
+[08/Jul/2023 04:24:24] [33m"GET /assets/img/portfolio/portfolio-7.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-9.jpg
+Not Found: /assets/img/portfolio/portfolio-8.jpg
+[08/Jul/2023 04:24:24] [33m"GET /assets/img/portfolio/portfolio-9.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:24:24] [33m"GET /assets/img/portfolio/portfolio-8.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:25:09] [m"GET / HTTP/1.1" 200 29661[0m
+Not Found: /assets/img/testimonials/testimonials-2.jpg
+Not Found: /assets/img/testimonials/testimonials-1.jpg
+[08/Jul/2023 04:25:09] [33m"GET /assets/img/testimonials/testimonials-2.jpg HTTP/1.1" 404 2303[0m
+[08/Jul/2023 04:25:09] [33m"GET /assets/img/testimonials/testimonials-1.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/vendor/bootstrap/js/bootstrap.bundle.min.js
+Not Found: /assets/vendor/glightbox/js/glightbox.min.js
+[08/Jul/2023 04:25:09] [33m"GET /assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 404 2327[0m
+Not Found: /assets/vendor/isotope-layout/isotope.pkgd.min.js
+Not Found: /assets/vendor/purecounter/purecounter_vanilla.js
+[08/Jul/2023 04:25:09] [33m"GET /assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1" 404 2306[0m
+Not Found: /assets/vendor/swiper/swiper-bundle.min.js
+[08/Jul/2023 04:25:09] [33m"GET /assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/vendor/waypoints/noframework.waypoints.js
+[08/Jul/2023 04:25:09] [33m"GET /assets/vendor/purecounter/purecounter_vanilla.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/vendor/php-email-form/validate.js
+[08/Jul/2023 04:25:09] [33m"GET /assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1" 404 2300[0m
+[08/Jul/2023 04:25:09] [33m"GET /assets/vendor/waypoints/noframework.waypoints.js HTTP/1.1" 404 2321[0m
+[08/Jul/2023 04:25:09] [33m"GET /assets/vendor/php-email-form/validate.js HTTP/1.1" 404 2297[0m
+Not Found: /assets/img/testimonials/testimonials-3.jpg
+Not Found: /assets/js/main.js
+[08/Jul/2023 04:25:09] [33m"GET /assets/js/main.js HTTP/1.1" 404 2228[0m
+[08/Jul/2023 04:25:09] [33m"GET /assets/img/testimonials/testimonials-3.jpg HTTP/1.1" 404 2303[0m
+[08/Jul/2023 04:25:09] [m"GET /static/assets/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 589307[0m
+Not Found: /assets/img/testimonials/testimonials-4.jpg
+[08/Jul/2023 04:25:09] [33m"GET /assets/img/testimonials/testimonials-4.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/img/portfolio/portfolio-2.jpg
+Not Found: /assets/img/portfolio/portfolio-1.jpg
+[08/Jul/2023 04:25:09] [33m"GET /assets/img/portfolio/portfolio-2.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/testimonials/testimonials-5.jpg
+[08/Jul/2023 04:25:09] [33m"GET /assets/img/portfolio/portfolio-1.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-3.jpg
+[08/Jul/2023 04:25:09] [33m"GET /assets/img/testimonials/testimonials-5.jpg HTTP/1.1" 404 2303[0m
+[08/Jul/2023 04:25:09] [33m"GET /assets/img/portfolio/portfolio-3.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-4.jpg
+[08/Jul/2023 04:25:09] [33m"GET /assets/img/portfolio/portfolio-4.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-5.jpg
+[08/Jul/2023 04:25:09] [33m"GET /assets/img/portfolio/portfolio-5.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-6.jpg
+[08/Jul/2023 04:25:09] [33m"GET /assets/img/portfolio/portfolio-6.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-7.jpg
+Not Found: /assets/img/portfolio/portfolio-8.jpg
+[08/Jul/2023 04:25:09] [33m"GET /assets/img/portfolio/portfolio-7.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-9.jpg
+[08/Jul/2023 04:25:09] [33m"GET /assets/img/portfolio/portfolio-8.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:25:09] [33m"GET /assets/img/portfolio/portfolio-9.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:26:17] [m"GET / HTTP/1.1" 200 29571[0m
+Not Found: /assets/img/testimonials/testimonials-2.jpg
+Not Found: /assets/vendor/glightbox/js/glightbox.min.js
+Not Found: /assets/img/testimonials/testimonials-1.jpg
+[08/Jul/2023 04:26:17] [33m"GET /assets/img/testimonials/testimonials-1.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/vendor/bootstrap/js/bootstrap.bundle.min.js
+[08/Jul/2023 04:26:17] [33m"GET /assets/img/testimonials/testimonials-2.jpg HTTP/1.1" 404 2303[0m
+[08/Jul/2023 04:26:17] [33m"GET /assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1" 404 2306[0m
+Not Found: /assets/vendor/isotope-layout/isotope.pkgd.min.js
+[08/Jul/2023 04:26:17] [33m"GET /assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 404 2327[0m
+Not Found: /assets/vendor/purecounter/purecounter_vanilla.js
+[08/Jul/2023 04:26:17] [33m"GET /assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/vendor/swiper/swiper-bundle.min.js
+Not Found: /assets/vendor/waypoints/noframework.waypoints.js
+[08/Jul/2023 04:26:17] [33m"GET /assets/vendor/purecounter/purecounter_vanilla.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/vendor/php-email-form/validate.js
+[08/Jul/2023 04:26:17] [33m"GET /assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1" 404 2300[0m
+[08/Jul/2023 04:26:17] [33m"GET /assets/vendor/waypoints/noframework.waypoints.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/img/testimonials/testimonials-3.jpg
+[08/Jul/2023 04:26:17] [33m"GET /assets/vendor/php-email-form/validate.js HTTP/1.1" 404 2297[0m
+Not Found: /assets/js/main.js
+[08/Jul/2023 04:26:17] [33m"GET /assets/img/testimonials/testimonials-3.jpg HTTP/1.1" 404 2303[0m
+[08/Jul/2023 04:26:17] [33m"GET /assets/js/main.js HTTP/1.1" 404 2228[0m
+Not Found: /assets/img/testimonials/testimonials-4.jpg
+[08/Jul/2023 04:26:17] [33m"GET /assets/img/testimonials/testimonials-4.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/img/testimonials/testimonials-5.jpg
+[08/Jul/2023 04:26:17] [33m"GET /assets/img/testimonials/testimonials-5.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/img/portfolio/portfolio-1.jpg
+[08/Jul/2023 04:26:17] [33m"GET /assets/img/portfolio/portfolio-1.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-3.jpg
+Not Found: /assets/img/portfolio/portfolio-2.jpg
+[08/Jul/2023 04:26:17] [33m"GET /assets/img/portfolio/portfolio-3.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:26:17] [33m"GET /assets/img/portfolio/portfolio-2.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:26:17] [m"GET /static/assets/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 589307[0m
+Not Found: /assets/img/portfolio/portfolio-4.jpg
+[08/Jul/2023 04:26:17] [33m"GET /assets/img/portfolio/portfolio-4.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-5.jpg
+[08/Jul/2023 04:26:17] [33m"GET /assets/img/portfolio/portfolio-5.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-6.jpg
+Not Found: /assets/img/portfolio/portfolio-7.jpg
+[08/Jul/2023 04:26:17] [33m"GET /assets/img/portfolio/portfolio-6.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:26:17] [33m"GET /assets/img/portfolio/portfolio-7.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-9.jpg
+Not Found: /assets/img/portfolio/portfolio-8.jpg
+[08/Jul/2023 04:26:17] [33m"GET /assets/img/portfolio/portfolio-9.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:26:17] [33m"GET /assets/img/portfolio/portfolio-8.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:27:20] [m"GET / HTTP/1.1" 200 27508[0m
+Not Found: /assets/img/testimonials/testimonials-2.jpg
+Not Found: /assets/vendor/purecounter/purecounter_vanilla.js
+Not Found: /assets/vendor/isotope-layout/isotope.pkgd.min.js
+[08/Jul/2023 04:27:20] [33m"GET /assets/img/testimonials/testimonials-2.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/vendor/bootstrap/js/bootstrap.bundle.min.js
+[08/Jul/2023 04:27:20] [33m"GET /assets/vendor/purecounter/purecounter_vanilla.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/img/testimonials/testimonials-1.jpg
+[08/Jul/2023 04:27:20] [33m"GET /assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/vendor/glightbox/js/glightbox.min.js
+[08/Jul/2023 04:27:20] [33m"GET /assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 404 2327[0m
+[08/Jul/2023 04:27:20] [33m"GET /assets/img/testimonials/testimonials-1.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/vendor/waypoints/noframework.waypoints.js
+[08/Jul/2023 04:27:20] [33m"GET /assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1" 404 2306[0m
+Not Found: /assets/vendor/php-email-form/validate.js
+[08/Jul/2023 04:27:20] [33m"GET /assets/vendor/waypoints/noframework.waypoints.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/js/main.js
+Not Found: /assets/vendor/swiper/swiper-bundle.min.js
+[08/Jul/2023 04:27:20] [33m"GET /assets/vendor/php-email-form/validate.js HTTP/1.1" 404 2297[0m
+Not Found: /assets/img/testimonials/testimonials-3.jpg
+[08/Jul/2023 04:27:20] [33m"GET /assets/js/main.js HTTP/1.1" 404 2228[0m
+[08/Jul/2023 04:27:20] [33m"GET /assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1" 404 2300[0m
+[08/Jul/2023 04:27:20] [33m"GET /assets/img/testimonials/testimonials-3.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/img/testimonials/testimonials-4.jpg
+[08/Jul/2023 04:27:20] [33m"GET /assets/img/testimonials/testimonials-4.jpg HTTP/1.1" 404 2303[0m
+[08/Jul/2023 04:27:20] [m"GET /static/assets/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 589307[0m
+Not Found: /assets/img/testimonials/testimonials-5.jpg
+[08/Jul/2023 04:27:20] [33m"GET /assets/img/testimonials/testimonials-5.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/img/portfolio/portfolio-1.jpg
+Not Found: /assets/img/portfolio/portfolio-2.jpg
+[08/Jul/2023 04:27:20] [33m"GET /assets/img/portfolio/portfolio-1.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-3.jpg
+Not Found: /assets/img/portfolio/portfolio-4.jpg
+[08/Jul/2023 04:27:20] [33m"GET /assets/img/portfolio/portfolio-3.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:27:20] [33m"GET /assets/img/portfolio/portfolio-2.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:27:20] [33m"GET /assets/img/portfolio/portfolio-4.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-5.jpg
+[08/Jul/2023 04:27:20] [33m"GET /assets/img/portfolio/portfolio-5.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-6.jpg
+[08/Jul/2023 04:27:20] [33m"GET /assets/img/portfolio/portfolio-6.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-7.jpg
+Not Found: /assets/img/portfolio/portfolio-8.jpg
+[08/Jul/2023 04:27:20] [33m"GET /assets/img/portfolio/portfolio-7.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:27:20] [33m"GET /assets/img/portfolio/portfolio-8.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-9.jpg
+[08/Jul/2023 04:27:20] [33m"GET /assets/img/portfolio/portfolio-9.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:28:46] [m"GET / HTTP/1.1" 200 27560[0m
+Not Found: /assets/img/testimonials/testimonials-2.jpg
+Not Found: /assets/img/testimonials/testimonials-1.jpg
+[08/Jul/2023 04:28:46] [33m"GET /assets/img/testimonials/testimonials-1.jpg HTTP/1.1" 404 2303[0m
+[08/Jul/2023 04:28:46] [33m"GET /assets/img/testimonials/testimonials-2.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/vendor/swiper/swiper-bundle.min.js
+[08/Jul/2023 04:28:46] [33m"GET /assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1" 404 2300[0m
+Not Found: /assets/vendor/glightbox/js/glightbox.min.js
+Not Found: /assets/vendor/bootstrap/js/bootstrap.bundle.min.js
+Not Found: /assets/vendor/purecounter/purecounter_vanilla.js
+[08/Jul/2023 04:28:46] [33m"GET /assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1" 404 2306[0m
+Not Found: /assets/vendor/isotope-layout/isotope.pkgd.min.js
+[08/Jul/2023 04:28:46] [33m"GET /assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 404 2327[0m
+Not Found: /assets/vendor/waypoints/noframework.waypoints.js
+[08/Jul/2023 04:28:46] [33m"GET /assets/vendor/purecounter/purecounter_vanilla.js HTTP/1.1" 404 2321[0m
+[08/Jul/2023 04:28:46] [33m"GET /assets/vendor/waypoints/noframework.waypoints.js HTTP/1.1" 404 2321[0m
+[08/Jul/2023 04:28:46] [33m"GET /assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/js/main.js
+Not Found: /assets/img/testimonials/testimonials-3.jpg
+[08/Jul/2023 04:28:46] [33m"GET /assets/js/main.js HTTP/1.1" 404 2228[0m
+Not Found: /assets/vendor/php-email-form/validate.js
+[08/Jul/2023 04:28:46] [33m"GET /assets/img/testimonials/testimonials-3.jpg HTTP/1.1" 404 2303[0m
+[08/Jul/2023 04:28:46] [33m"GET /assets/vendor/php-email-form/validate.js HTTP/1.1" 404 2297[0m
+Not Found: /assets/img/testimonials/testimonials-4.jpg
+[08/Jul/2023 04:28:46] [33m"GET /assets/img/testimonials/testimonials-4.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/img/testimonials/testimonials-5.jpg
+[08/Jul/2023 04:28:46] [33m"GET /assets/img/testimonials/testimonials-5.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/img/portfolio/portfolio-1.jpg
+[08/Jul/2023 04:28:46] [33m"GET /assets/img/portfolio/portfolio-1.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:28:46] [m"GET /static/assets/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 589307[0m
+Not Found: /assets/img/portfolio/portfolio-2.jpg
+[08/Jul/2023 04:28:46] [33m"GET /assets/img/portfolio/portfolio-2.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-4.jpg
+Not Found: /assets/img/portfolio/portfolio-3.jpg
+[08/Jul/2023 04:28:46] [33m"GET /assets/img/portfolio/portfolio-4.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:28:46] [33m"GET /assets/img/portfolio/portfolio-3.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-5.jpg
+[08/Jul/2023 04:28:46] [33m"GET /assets/img/portfolio/portfolio-5.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-6.jpg
+[08/Jul/2023 04:28:46] [33m"GET /assets/img/portfolio/portfolio-6.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-7.jpg
+[08/Jul/2023 04:28:46] [33m"GET /assets/img/portfolio/portfolio-7.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-8.jpg
+[08/Jul/2023 04:28:46] [33m"GET /assets/img/portfolio/portfolio-8.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-9.jpg
+[08/Jul/2023 04:28:46] [33m"GET /assets/img/portfolio/portfolio-9.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:28:57] [m"GET / HTTP/1.1" 200 27561[0m
+Not Found: /assets/img/testimonials/testimonials-1.jpg
+[08/Jul/2023 04:28:57] [33m"GET /assets/img/testimonials/testimonials-1.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/vendor/purecounter/purecounter_vanilla.js
+Not Found: /assets/img/testimonials/testimonials-2.jpg
+[08/Jul/2023 04:28:58] [33m"GET /assets/vendor/purecounter/purecounter_vanilla.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/vendor/glightbox/js/glightbox.min.js
+Not Found: /assets/vendor/isotope-layout/isotope.pkgd.min.js
+[08/Jul/2023 04:28:58] [33m"GET /assets/img/testimonials/testimonials-2.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/vendor/bootstrap/js/bootstrap.bundle.min.js
+[08/Jul/2023 04:28:58] [33m"GET /assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1" 404 2306[0m
+Not Found: /assets/vendor/swiper/swiper-bundle.min.js
+[08/Jul/2023 04:28:58] [33m"GET /assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1" 404 2321[0m
+[08/Jul/2023 04:28:58] [33m"GET /assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 404 2327[0m
+Not Found: /assets/vendor/waypoints/noframework.waypoints.js
+[08/Jul/2023 04:28:58] [33m"GET /assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1" 404 2300[0m
+[08/Jul/2023 04:28:58] [33m"GET /assets/vendor/waypoints/noframework.waypoints.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/js/main.js
+Not Found: /assets/vendor/php-email-form/validate.js
+[08/Jul/2023 04:28:58] [33m"GET /assets/js/main.js HTTP/1.1" 404 2228[0m
+[08/Jul/2023 04:28:58] [33m"GET /assets/vendor/php-email-form/validate.js HTTP/1.1" 404 2297[0m
+Not Found: /assets/img/testimonials/testimonials-3.jpg
+[08/Jul/2023 04:28:58] [33m"GET /assets/img/testimonials/testimonials-3.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/img/testimonials/testimonials-4.jpg
+[08/Jul/2023 04:28:58] [33m"GET /assets/img/testimonials/testimonials-4.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/img/testimonials/testimonials-5.jpg
+[08/Jul/2023 04:28:58] [33m"GET /assets/img/testimonials/testimonials-5.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/img/portfolio/portfolio-2.jpg
+Not Found: /assets/img/portfolio/portfolio-1.jpg
+[08/Jul/2023 04:28:58] [33m"GET /assets/img/portfolio/portfolio-1.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:28:58] [33m"GET /assets/img/portfolio/portfolio-2.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-3.jpg
+[08/Jul/2023 04:28:58] [33m"GET /assets/img/portfolio/portfolio-3.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:28:58] [m"GET /static/assets/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 589307[0m
+Not Found: /assets/img/portfolio/portfolio-4.jpg
+[08/Jul/2023 04:28:58] [33m"GET /assets/img/portfolio/portfolio-4.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-5.jpg
+[08/Jul/2023 04:28:58] [33m"GET /assets/img/portfolio/portfolio-5.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-7.jpg
+Not Found: /assets/img/portfolio/portfolio-8.jpg
+[08/Jul/2023 04:28:58] [33m"GET /assets/img/portfolio/portfolio-7.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-6.jpg
+[08/Jul/2023 04:28:58] [33m"GET /assets/img/portfolio/portfolio-8.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-9.jpg
+[08/Jul/2023 04:28:58] [33m"GET /assets/img/portfolio/portfolio-6.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:28:58] [33m"GET /assets/img/portfolio/portfolio-9.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:29:11] [m"GET / HTTP/1.1" 200 27562[0m
+Not Found: /assets/img/testimonials/testimonials-2.jpg
+[08/Jul/2023 04:29:11] [33m"GET /assets/img/testimonials/testimonials-2.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/vendor/purecounter/purecounter_vanilla.js
+Not Found: /assets/img/testimonials/testimonials-1.jpg
+[08/Jul/2023 04:29:11] [33m"GET /assets/img/testimonials/testimonials-1.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/vendor/isotope-layout/isotope.pkgd.min.js
+[08/Jul/2023 04:29:11] [33m"GET /assets/vendor/purecounter/purecounter_vanilla.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/vendor/bootstrap/js/bootstrap.bundle.min.js
+Not Found: /assets/vendor/glightbox/js/glightbox.min.js
+Not Found: /assets/vendor/swiper/swiper-bundle.min.js
+[08/Jul/2023 04:29:11] [33m"GET /assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/vendor/waypoints/noframework.waypoints.js
+[08/Jul/2023 04:29:11] [33m"GET /assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 404 2327[0m
+[08/Jul/2023 04:29:11] [33m"GET /assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1" 404 2300[0m
+[08/Jul/2023 04:29:11] [33m"GET /assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1" 404 2306[0m
+[08/Jul/2023 04:29:11] [33m"GET /assets/vendor/waypoints/noframework.waypoints.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/vendor/php-email-form/validate.js
+Not Found: /assets/js/main.js
+[08/Jul/2023 04:29:11] [33m"GET /assets/vendor/php-email-form/validate.js HTTP/1.1" 404 2297[0m
+[08/Jul/2023 04:29:11] [33m"GET /assets/js/main.js HTTP/1.1" 404 2228[0m
+Not Found: /assets/img/testimonials/testimonials-3.jpg
+[08/Jul/2023 04:29:11] [33m"GET /assets/img/testimonials/testimonials-3.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/img/testimonials/testimonials-4.jpg
+[08/Jul/2023 04:29:11] [33m"GET /assets/img/testimonials/testimonials-4.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/img/testimonials/testimonials-5.jpg
+[08/Jul/2023 04:29:11] [33m"GET /assets/img/testimonials/testimonials-5.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/img/portfolio/portfolio-1.jpg
+[08/Jul/2023 04:29:11] [33m"GET /assets/img/portfolio/portfolio-1.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-3.jpg
+[08/Jul/2023 04:29:11] [33m"GET /assets/img/portfolio/portfolio-3.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-2.jpg
+[08/Jul/2023 04:29:11] [33m"GET /assets/img/portfolio/portfolio-2.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:29:11] [m"GET /static/assets/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 589307[0m
+Not Found: /assets/img/portfolio/portfolio-4.jpg
+[08/Jul/2023 04:29:11] [33m"GET /assets/img/portfolio/portfolio-4.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-5.jpg
+[08/Jul/2023 04:29:11] [33m"GET /assets/img/portfolio/portfolio-5.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-6.jpg
+[08/Jul/2023 04:29:11] [33m"GET /assets/img/portfolio/portfolio-6.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-7.jpg
+Not Found: /assets/img/portfolio/portfolio-8.jpg
+Not Found: /assets/img/portfolio/portfolio-9.jpg
+[08/Jul/2023 04:29:11] [33m"GET /assets/img/portfolio/portfolio-9.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:29:11] [33m"GET /assets/img/portfolio/portfolio-7.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:29:11] [33m"GET /assets/img/portfolio/portfolio-8.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:29:59] [m"GET / HTTP/1.1" 200 27610[0m
+Not Found: /assets/img/testimonials/testimonials-2.jpg
+Not Found: /assets/vendor/purecounter/purecounter_vanilla.js
+[08/Jul/2023 04:29:59] [33m"GET /assets/img/testimonials/testimonials-2.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/vendor/glightbox/js/glightbox.min.js
+Not Found: /assets/img/testimonials/testimonials-1.jpg
+[08/Jul/2023 04:29:59] [33m"GET /assets/vendor/purecounter/purecounter_vanilla.js HTTP/1.1" 404 2321[0m
+[08/Jul/2023 04:29:59] [33m"GET /assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1" 404 2306[0m
+Not Found: /assets/vendor/bootstrap/js/bootstrap.bundle.min.js
+Not Found: /assets/vendor/isotope-layout/isotope.pkgd.min.js
+[08/Jul/2023 04:29:59] [33m"GET /assets/img/testimonials/testimonials-1.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/vendor/swiper/swiper-bundle.min.js
+[08/Jul/2023 04:29:59] [33m"GET /assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/vendor/waypoints/noframework.waypoints.js
+[08/Jul/2023 04:29:59] [33m"GET /assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 404 2327[0m
+Not Found: /assets/vendor/php-email-form/validate.js
+[08/Jul/2023 04:29:59] [33m"GET /assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1" 404 2300[0m
+[08/Jul/2023 04:29:59] [33m"GET /assets/vendor/waypoints/noframework.waypoints.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/js/main.js
+[08/Jul/2023 04:29:59] [33m"GET /assets/vendor/php-email-form/validate.js HTTP/1.1" 404 2297[0m
+[08/Jul/2023 04:29:59] [33m"GET /assets/js/main.js HTTP/1.1" 404 2228[0m
+Not Found: /assets/img/testimonials/testimonials-3.jpg
+[08/Jul/2023 04:29:59] [33m"GET /assets/img/testimonials/testimonials-3.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/img/testimonials/testimonials-4.jpg
+[08/Jul/2023 04:29:59] [33m"GET /assets/img/testimonials/testimonials-4.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/img/testimonials/testimonials-5.jpg
+[08/Jul/2023 04:29:59] [33m"GET /assets/img/testimonials/testimonials-5.jpg HTTP/1.1" 404 2303[0m
+[08/Jul/2023 04:29:59] [m"GET /static/assets/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 589307[0m
+Not Found: /assets/img/portfolio/portfolio-2.jpg
+Not Found: /assets/img/portfolio/portfolio-3.jpg
+Not Found: /assets/img/portfolio/portfolio-4.jpg
+[08/Jul/2023 04:29:59] [33m"GET /assets/img/portfolio/portfolio-3.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:29:59] [33m"GET /assets/img/portfolio/portfolio-2.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:29:59] [33m"GET /assets/img/portfolio/portfolio-4.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-1.jpg
+[08/Jul/2023 04:29:59] [33m"GET /assets/img/portfolio/portfolio-1.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-5.jpg
+[08/Jul/2023 04:29:59] [33m"GET /assets/img/portfolio/portfolio-5.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-6.jpg
+[08/Jul/2023 04:29:59] [33m"GET /assets/img/portfolio/portfolio-6.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-8.jpg
+[08/Jul/2023 04:29:59] [33m"GET /assets/img/portfolio/portfolio-8.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-9.jpg
+Not Found: /assets/img/portfolio/portfolio-7.jpg
+[08/Jul/2023 04:29:59] [33m"GET /assets/img/portfolio/portfolio-9.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:29:59] [33m"GET /assets/img/portfolio/portfolio-7.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:30:18] [m"GET / HTTP/1.1" 200 27647[0m
+Not Found: /assets/img/testimonials/testimonials-2.jpg
+[08/Jul/2023 04:30:18] [33m"GET /assets/img/testimonials/testimonials-2.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/vendor/isotope-layout/isotope.pkgd.min.js
+Not Found: /assets/vendor/swiper/swiper-bundle.min.js
+Not Found: /assets/vendor/glightbox/js/glightbox.min.js
+[08/Jul/2023 04:30:19] [33m"GET /assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/vendor/bootstrap/js/bootstrap.bundle.min.js
+[08/Jul/2023 04:30:19] [33m"GET /assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1" 404 2300[0m
+Not Found: /assets/vendor/purecounter/purecounter_vanilla.js
+[08/Jul/2023 04:30:19] [33m"GET /assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1" 404 2306[0m
+Not Found: /assets/img/testimonials/testimonials-1.jpg
+[08/Jul/2023 04:30:19] [33m"GET /assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 404 2327[0m
+Not Found: /assets/vendor/waypoints/noframework.waypoints.js
+[08/Jul/2023 04:30:19] [33m"GET /assets/vendor/purecounter/purecounter_vanilla.js HTTP/1.1" 404 2321[0m
+[08/Jul/2023 04:30:19] [33m"GET /assets/img/testimonials/testimonials-1.jpg HTTP/1.1" 404 2303[0m
+[08/Jul/2023 04:30:19] [33m"GET /assets/vendor/waypoints/noframework.waypoints.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/js/main.js
+Not Found: /assets/vendor/php-email-form/validate.js
+Not Found: /assets/img/testimonials/testimonials-3.jpg
+[08/Jul/2023 04:30:19] [33m"GET /assets/vendor/php-email-form/validate.js HTTP/1.1" 404 2297[0m
+[08/Jul/2023 04:30:19] [33m"GET /assets/js/main.js HTTP/1.1" 404 2228[0m
+[08/Jul/2023 04:30:19] [33m"GET /assets/img/testimonials/testimonials-3.jpg HTTP/1.1" 404 2303[0m
+[08/Jul/2023 04:30:19] [m"GET /static/assets/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 589307[0m
+Not Found: /assets/img/testimonials/testimonials-4.jpg
+[08/Jul/2023 04:30:19] [33m"GET /assets/img/testimonials/testimonials-4.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/img/testimonials/testimonials-5.jpg
+Not Found: /assets/img/portfolio/portfolio-1.jpg
+[08/Jul/2023 04:30:19] [33m"GET /assets/img/testimonials/testimonials-5.jpg HTTP/1.1" 404 2303[0m
+[08/Jul/2023 04:30:19] [33m"GET /assets/img/portfolio/portfolio-1.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-4.jpg
+Not Found: /assets/img/portfolio/portfolio-3.jpg
+[08/Jul/2023 04:30:19] [33m"GET /assets/img/portfolio/portfolio-4.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:30:19] [33m"GET /assets/img/portfolio/portfolio-3.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-2.jpg
+[08/Jul/2023 04:30:19] [33m"GET /assets/img/portfolio/portfolio-2.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-5.jpg
+[08/Jul/2023 04:30:19] [33m"GET /assets/img/portfolio/portfolio-5.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-6.jpg
+Not Found: /assets/img/portfolio/portfolio-7.jpg
+[08/Jul/2023 04:30:19] [33m"GET /assets/img/portfolio/portfolio-6.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:30:19] [33m"GET /assets/img/portfolio/portfolio-7.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-8.jpg
+Not Found: /assets/img/portfolio/portfolio-9.jpg
+[08/Jul/2023 04:30:19] [33m"GET /assets/img/portfolio/portfolio-8.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:30:19] [33m"GET /assets/img/portfolio/portfolio-9.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:31:21] [m"GET / HTTP/1.1" 200 27646[0m
+Not Found: /assets/img/testimonials/testimonials-2.jpg
+Not Found: /assets/vendor/purecounter/purecounter_vanilla.js
+Not Found: /assets/img/testimonials/testimonials-1.jpg
+[08/Jul/2023 04:31:21] [33m"GET /assets/img/testimonials/testimonials-2.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/vendor/isotope-layout/isotope.pkgd.min.js
+[08/Jul/2023 04:31:21] [33m"GET /assets/img/testimonials/testimonials-1.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/vendor/bootstrap/js/bootstrap.bundle.min.js
+[08/Jul/2023 04:31:21] [33m"GET /assets/vendor/purecounter/purecounter_vanilla.js HTTP/1.1" 404 2321[0m
+[08/Jul/2023 04:31:22] [33m"GET /assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/vendor/glightbox/js/glightbox.min.js
+[08/Jul/2023 04:31:22] [33m"GET /assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 404 2327[0m
+Not Found: /assets/vendor/swiper/swiper-bundle.min.js
+Not Found: /assets/vendor/waypoints/noframework.waypoints.js
+[08/Jul/2023 04:31:22] [33m"GET /assets/vendor/waypoints/noframework.waypoints.js HTTP/1.1" 404 2321[0m
+[08/Jul/2023 04:31:22] [33m"GET /assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1" 404 2300[0m
+Not Found: /assets/vendor/php-email-form/validate.js
+Not Found: /assets/js/main.js
+[08/Jul/2023 04:31:22] [33m"GET /assets/vendor/php-email-form/validate.js HTTP/1.1" 404 2297[0m
+[08/Jul/2023 04:31:22] [33m"GET /assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1" 404 2306[0m
+[08/Jul/2023 04:31:22] [33m"GET /assets/js/main.js HTTP/1.1" 404 2228[0m
+Not Found: /assets/img/testimonials/testimonials-3.jpg
+[08/Jul/2023 04:31:22] [33m"GET /assets/img/testimonials/testimonials-3.jpg HTTP/1.1" 404 2303[0m
+[08/Jul/2023 04:31:22] [m"GET /static/assets/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 589307[0m
+Not Found: /assets/img/testimonials/testimonials-4.jpg
+[08/Jul/2023 04:31:22] [33m"GET /assets/img/testimonials/testimonials-4.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/img/testimonials/testimonials-5.jpg
+[08/Jul/2023 04:31:22] [33m"GET /assets/img/testimonials/testimonials-5.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/img/portfolio/portfolio-1.jpg
+[08/Jul/2023 04:31:22] [33m"GET /assets/img/portfolio/portfolio-1.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-3.jpg
+Not Found: /assets/img/portfolio/portfolio-2.jpg
+[08/Jul/2023 04:31:22] [33m"GET /assets/img/portfolio/portfolio-2.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:31:22] [33m"GET /assets/img/portfolio/portfolio-3.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-4.jpg
+[08/Jul/2023 04:31:22] [33m"GET /assets/img/portfolio/portfolio-4.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-5.jpg
+[08/Jul/2023 04:31:22] [33m"GET /assets/img/portfolio/portfolio-5.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-6.jpg
+[08/Jul/2023 04:31:22] [33m"GET /assets/img/portfolio/portfolio-6.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-7.jpg
+[08/Jul/2023 04:31:22] [33m"GET /assets/img/portfolio/portfolio-7.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-8.jpg
+Not Found: /assets/img/portfolio/portfolio-9.jpg
+[08/Jul/2023 04:31:22] [33m"GET /assets/img/portfolio/portfolio-8.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:31:22] [33m"GET /assets/img/portfolio/portfolio-9.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:38:58] [m"GET /static/assets/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 589307[0m
+[08/Jul/2023 04:39:59] [m"GET / HTTP/1.1" 200 25459[0m
+Not Found: /assets/img/testimonials/testimonials-2.jpg
+Not Found: /assets/img/testimonials/testimonials-1.jpg
+[08/Jul/2023 04:39:59] [33m"GET /assets/img/testimonials/testimonials-1.jpg HTTP/1.1" 404 2303[0m
+[08/Jul/2023 04:39:59] [33m"GET /assets/img/testimonials/testimonials-2.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/vendor/bootstrap/js/bootstrap.bundle.min.js
+[08/Jul/2023 04:39:59] [33m"GET /assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 404 2327[0m
+Not Found: /assets/vendor/purecounter/purecounter_vanilla.js
+Not Found: /assets/vendor/isotope-layout/isotope.pkgd.min.js
+[08/Jul/2023 04:39:59] [33m"GET /assets/vendor/purecounter/purecounter_vanilla.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/vendor/swiper/swiper-bundle.min.js
+Not Found: /assets/vendor/glightbox/js/glightbox.min.js
+Not Found: /assets/vendor/waypoints/noframework.waypoints.js
+[08/Jul/2023 04:39:59] [33m"GET /assets/vendor/waypoints/noframework.waypoints.js HTTP/1.1" 404 2321[0m
+[08/Jul/2023 04:39:59] [33m"GET /assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1" 404 2321[0m
+[08/Jul/2023 04:39:59] [33m"GET /assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1" 404 2300[0m
+[08/Jul/2023 04:39:59] [33m"GET /assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1" 404 2306[0m
+Not Found: /assets/js/main.js
+Not Found: /assets/vendor/php-email-form/validate.js
+[08/Jul/2023 04:39:59] [33m"GET /assets/js/main.js HTTP/1.1" 404 2228[0m
+[08/Jul/2023 04:39:59] [33m"GET /assets/vendor/php-email-form/validate.js HTTP/1.1" 404 2297[0m
+Not Found: /assets/img/testimonials/testimonials-3.jpg
+[08/Jul/2023 04:39:59] [33m"GET /assets/img/testimonials/testimonials-3.jpg HTTP/1.1" 404 2303[0m
+Not Found: /assets/img/testimonials/testimonials-4.jpg
+[08/Jul/2023 04:39:59] [33m"GET /assets/img/testimonials/testimonials-4.jpg HTTP/1.1" 404 2303[0m
+[08/Jul/2023 04:39:59] [m"GET /static/assets/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 589307[0m
+Not Found: /assets/img/portfolio/portfolio-1.jpg
+Not Found: /assets/img/testimonials/testimonials-5.jpg
+[08/Jul/2023 04:39:59] [33m"GET /assets/img/portfolio/portfolio-1.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-4.jpg
+Not Found: /assets/img/portfolio/portfolio-3.jpg
+[08/Jul/2023 04:39:59] [33m"GET /assets/img/testimonials/testimonials-5.jpg HTTP/1.1" 404 2303[0m
+[08/Jul/2023 04:39:59] [33m"GET /assets/img/portfolio/portfolio-4.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-2.jpg
+[08/Jul/2023 04:39:59] [33m"GET /assets/img/portfolio/portfolio-3.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-5.jpg
+[08/Jul/2023 04:39:59] [33m"GET /assets/img/portfolio/portfolio-2.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:39:59] [33m"GET /assets/img/portfolio/portfolio-5.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-6.jpg
+[08/Jul/2023 04:39:59] [33m"GET /assets/img/portfolio/portfolio-6.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-7.jpg
+Not Found: /assets/img/portfolio/portfolio-8.jpg
+[08/Jul/2023 04:39:59] [33m"GET /assets/img/portfolio/portfolio-7.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:39:59] [33m"GET /assets/img/portfolio/portfolio-8.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-9.jpg
+[08/Jul/2023 04:39:59] [33m"GET /assets/img/portfolio/portfolio-9.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:40:32] [m"GET / HTTP/1.1" 200 21426[0m
+Not Found: /assets/img/portfolio/portfolio-1.jpg
+Not Found: /assets/img/portfolio/portfolio-2.jpg
+[08/Jul/2023 04:40:32] [33m"GET /assets/img/portfolio/portfolio-1.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/vendor/purecounter/purecounter_vanilla.js
+Not Found: /assets/vendor/glightbox/js/glightbox.min.js
+Not Found: /assets/vendor/bootstrap/js/bootstrap.bundle.min.js
+[08/Jul/2023 04:40:32] [33m"GET /assets/vendor/purecounter/purecounter_vanilla.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/vendor/isotope-layout/isotope.pkgd.min.js
+[08/Jul/2023 04:40:32] [33m"GET /assets/img/portfolio/portfolio-2.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:40:32] [33m"GET /assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1" 404 2306[0m
+[08/Jul/2023 04:40:32] [33m"GET /assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 404 2327[0m
+[08/Jul/2023 04:40:32] [33m"GET /assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/vendor/swiper/swiper-bundle.min.js
+[08/Jul/2023 04:40:32] [33m"GET /assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1" 404 2300[0m
+Not Found: /assets/js/main.js
+Not Found: /assets/vendor/php-email-form/validate.js
+[08/Jul/2023 04:40:32] [33m"GET /assets/vendor/php-email-form/validate.js HTTP/1.1" 404 2297[0m
+Not Found: /assets/img/portfolio/portfolio-3.jpg
+[08/Jul/2023 04:40:32] [33m"GET /assets/js/main.js HTTP/1.1" 404 2228[0m
+Not Found: /assets/vendor/waypoints/noframework.waypoints.js
+[08/Jul/2023 04:40:32] [33m"GET /assets/img/portfolio/portfolio-3.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:40:32] [33m"GET /assets/vendor/waypoints/noframework.waypoints.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/img/portfolio/portfolio-4.jpg
+[08/Jul/2023 04:40:32] [33m"GET /assets/img/portfolio/portfolio-4.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:40:32] [m"GET /static/assets/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 589307[0m
+Not Found: /assets/img/portfolio/portfolio-5.jpg
+[08/Jul/2023 04:40:32] [33m"GET /assets/img/portfolio/portfolio-5.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-6.jpg
+[08/Jul/2023 04:40:32] [33m"GET /assets/img/portfolio/portfolio-6.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-7.jpg
+Not Found: /assets/img/portfolio/portfolio-8.jpg
+[08/Jul/2023 04:40:32] [33m"GET /assets/img/portfolio/portfolio-8.jpg HTTP/1.1" 404 2285[0m
+Not Found: /assets/img/portfolio/portfolio-9.jpg
+[08/Jul/2023 04:40:32] [33m"GET /assets/img/portfolio/portfolio-7.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:40:32] [33m"GET /assets/img/portfolio/portfolio-9.jpg HTTP/1.1" 404 2285[0m
+[08/Jul/2023 04:51:10] [m"GET / HTTP/1.1" 200 12062[0m
+Not Found: /assets/vendor/glightbox/js/glightbox.min.js
+Not Found: /assets/vendor/bootstrap/js/bootstrap.bundle.min.js
+[08/Jul/2023 04:51:10] [33m"GET /assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1" 404 2306[0m
+[08/Jul/2023 04:51:10] [33m"GET /assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 404 2327[0m
+Not Found: /assets/vendor/isotope-layout/isotope.pkgd.min.js
+Not Found: /assets/vendor/waypoints/noframework.waypoints.js
+Not Found: /assets/vendor/purecounter/purecounter_vanilla.js
+Not Found: /assets/vendor/swiper/swiper-bundle.min.js
+[08/Jul/2023 04:51:10] [33m"GET /assets/vendor/purecounter/purecounter_vanilla.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/vendor/php-email-form/validate.js
+[08/Jul/2023 04:51:10] [33m"GET /assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/js/main.js
+[08/Jul/2023 04:51:10] [33m"GET /assets/vendor/waypoints/noframework.waypoints.js HTTP/1.1" 404 2321[0m
+[08/Jul/2023 04:51:10] [33m"GET /assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1" 404 2300[0m
+[08/Jul/2023 04:51:10] [33m"GET /assets/vendor/php-email-form/validate.js HTTP/1.1" 404 2297[0m
+[08/Jul/2023 04:51:10] [33m"GET /assets/js/main.js HTTP/1.1" 404 2228[0m
+[08/Jul/2023 04:51:10] [m"GET /static/assets/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 589307[0m
+[08/Jul/2023 04:51:56] [m"GET /static/assets/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 589307[0m
+[08/Jul/2023 04:52:38] [m"GET / HTTP/1.1" 200 11914[0m
+Not Found: /assets/vendor/purecounter/purecounter_vanilla.js
+[08/Jul/2023 04:52:38] [33m"GET /assets/vendor/purecounter/purecounter_vanilla.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/vendor/glightbox/js/glightbox.min.js
+Not Found: /assets/vendor/waypoints/noframework.waypoints.js
+Not Found: /assets/vendor/swiper/swiper-bundle.min.js
+[08/Jul/2023 04:52:38] [33m"GET /assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1" 404 2306[0m
+Not Found: /assets/vendor/bootstrap/js/bootstrap.bundle.min.js
+[08/Jul/2023 04:52:38] [33m"GET /assets/vendor/waypoints/noframework.waypoints.js HTTP/1.1" 404 2321[0m
+[08/Jul/2023 04:52:38] [33m"GET /assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1" 404 2300[0m
+Not Found: /assets/vendor/isotope-layout/isotope.pkgd.min.js
+[08/Jul/2023 04:52:38] [33m"GET /assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 404 2327[0m
+Not Found: /assets/vendor/php-email-form/validate.js
+Not Found: /assets/js/main.js
+[08/Jul/2023 04:52:38] [33m"GET /assets/vendor/php-email-form/validate.js HTTP/1.1" 404 2297[0m
+[08/Jul/2023 04:52:38] [33m"GET /assets/js/main.js HTTP/1.1" 404 2228[0m
+[08/Jul/2023 04:52:38] [33m"GET /assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1" 404 2321[0m
+[08/Jul/2023 04:52:38] [m"GET /static/assets/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 589307[0m
+[08/Jul/2023 04:53:14] [m"GET / HTTP/1.1" 200 11914[0m
+Not Found: /assets/vendor/waypoints/noframework.waypoints.js
+Not Found: /assets/vendor/purecounter/purecounter_vanilla.js
+Not Found: /assets/vendor/bootstrap/js/bootstrap.bundle.min.js
+[08/Jul/2023 04:53:14] [33m"GET /assets/vendor/purecounter/purecounter_vanilla.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/vendor/swiper/swiper-bundle.min.js
+[08/Jul/2023 04:53:14] [33m"GET /assets/vendor/waypoints/noframework.waypoints.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/vendor/glightbox/js/glightbox.min.js
+[08/Jul/2023 04:53:14] [33m"GET /assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 404 2327[0m
+Not Found: /assets/vendor/isotope-layout/isotope.pkgd.min.js
+[08/Jul/2023 04:53:14] [33m"GET /assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1" 404 2300[0m
+[08/Jul/2023 04:53:14] [33m"GET /assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1" 404 2306[0m
+Not Found: /assets/vendor/php-email-form/validate.js
+[08/Jul/2023 04:53:14] [33m"GET /assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/js/main.js
+[08/Jul/2023 04:53:14] [33m"GET /assets/vendor/php-email-form/validate.js HTTP/1.1" 404 2297[0m
+[08/Jul/2023 04:53:14] [33m"GET /assets/js/main.js HTTP/1.1" 404 2228[0m
+[08/Jul/2023 04:53:16] [m"GET / HTTP/1.1" 200 11914[0m
+Not Found: /assets/vendor/waypoints/noframework.waypoints.js
+Not Found: /assets/vendor/purecounter/purecounter_vanilla.js
+Not Found: /assets/vendor/bootstrap/js/bootstrap.bundle.min.js
+Not Found: /assets/vendor/isotope-layout/isotope.pkgd.min.js
+[08/Jul/2023 04:53:16] [33m"GET /assets/vendor/waypoints/noframework.waypoints.js HTTP/1.1" 404 2321[0m
+[08/Jul/2023 04:53:16] [33m"GET /assets/vendor/purecounter/purecounter_vanilla.js HTTP/1.1" 404 2321[0m
+[08/Jul/2023 04:53:16] [33m"GET /assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 404 2327[0m
+[08/Jul/2023 04:53:16] [33m"GET /assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/vendor/swiper/swiper-bundle.min.js
+Not Found: /assets/vendor/glightbox/js/glightbox.min.js
+Not Found: /assets/vendor/php-email-form/validate.js
+Not Found: /assets/js/main.js
+[08/Jul/2023 04:53:16] [33m"GET /assets/vendor/php-email-form/validate.js HTTP/1.1" 404 2297[0m
+[08/Jul/2023 04:53:16] [33m"GET /assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1" 404 2300[0m
+[08/Jul/2023 04:53:16] [33m"GET /assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1" 404 2306[0m
+[08/Jul/2023 04:53:16] [33m"GET /assets/js/main.js HTTP/1.1" 404 2228[0m
+[08/Jul/2023 04:53:16] [m"GET / HTTP/1.1" 200 11914[0m
+Not Found: /assets/vendor/glightbox/js/glightbox.min.js
+Not Found: /assets/vendor/waypoints/noframework.waypoints.js
+Not Found: /assets/vendor/purecounter/purecounter_vanilla.js
+[08/Jul/2023 04:53:16] [33m"GET /assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1" 404 2306[0m
+[08/Jul/2023 04:53:16] [33m"GET /assets/vendor/purecounter/purecounter_vanilla.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/vendor/isotope-layout/isotope.pkgd.min.js
+[08/Jul/2023 04:53:16] [33m"GET /assets/vendor/waypoints/noframework.waypoints.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/vendor/swiper/swiper-bundle.min.js
+Not Found: /assets/vendor/bootstrap/js/bootstrap.bundle.min.js
+Not Found: /assets/vendor/php-email-form/validate.js
+[08/Jul/2023 04:53:16] [33m"GET /assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1" 404 2321[0m
+[08/Jul/2023 04:53:16] [33m"GET /assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1" 404 2300[0m
+[08/Jul/2023 04:53:16] [33m"GET /assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 404 2327[0m
+[08/Jul/2023 04:53:16] [33m"GET /assets/vendor/php-email-form/validate.js HTTP/1.1" 404 2297[0m
+Not Found: /assets/js/main.js
+[08/Jul/2023 04:53:16] [33m"GET /assets/js/main.js HTTP/1.1" 404 2228[0m
+[08/Jul/2023 04:53:16] [m"GET / HTTP/1.1" 200 11914[0m
+Not Found: /assets/vendor/purecounter/purecounter_vanilla.js
+Not Found: /assets/vendor/isotope-layout/isotope.pkgd.min.js
+Not Found: /assets/vendor/swiper/swiper-bundle.min.js
+[08/Jul/2023 04:53:16] [33m"GET /assets/vendor/purecounter/purecounter_vanilla.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/vendor/glightbox/js/glightbox.min.js
+Not Found: /assets/vendor/waypoints/noframework.waypoints.js
+[08/Jul/2023 04:53:16] [33m"GET /assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1" 404 2306[0m
+[08/Jul/2023 04:53:16] [33m"GET /assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1" 404 2300[0m
+Not Found: /assets/vendor/bootstrap/js/bootstrap.bundle.min.js
+[08/Jul/2023 04:53:16] [33m"GET /assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1" 404 2321[0m
+[08/Jul/2023 04:53:16] [33m"GET /assets/vendor/waypoints/noframework.waypoints.js HTTP/1.1" 404 2321[0m
+[08/Jul/2023 04:53:16] [33m"GET /assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 404 2327[0m
+Not Found: /assets/js/main.js
+Not Found: /assets/vendor/php-email-form/validate.js
+[08/Jul/2023 04:53:16] [33m"GET /assets/js/main.js HTTP/1.1" 404 2228[0m
+[08/Jul/2023 04:53:16] [33m"GET /assets/vendor/php-email-form/validate.js HTTP/1.1" 404 2297[0m
+[08/Jul/2023 04:53:16] [m"GET / HTTP/1.1" 200 11914[0m
+Not Found: /assets/vendor/purecounter/purecounter_vanilla.js
+Not Found: /assets/vendor/bootstrap/js/bootstrap.bundle.min.js
+Not Found: /assets/vendor/swiper/swiper-bundle.min.js
+[08/Jul/2023 04:53:16] [33m"GET /assets/vendor/purecounter/purecounter_vanilla.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/vendor/glightbox/js/glightbox.min.js
+[08/Jul/2023 04:53:16] [33m"GET /assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1" 404 2300[0m
+Not Found: /assets/vendor/waypoints/noframework.waypoints.js
+[08/Jul/2023 04:53:16] [33m"GET /assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 404 2327[0m
+[08/Jul/2023 04:53:16] [33m"GET /assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1" 404 2306[0m
+Not Found: /assets/vendor/isotope-layout/isotope.pkgd.min.js
+[08/Jul/2023 04:53:16] [33m"GET /assets/vendor/waypoints/noframework.waypoints.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/vendor/php-email-form/validate.js
+Not Found: /assets/js/main.js
+[08/Jul/2023 04:53:16] [33m"GET /assets/vendor/php-email-form/validate.js HTTP/1.1" 404 2297[0m
+[08/Jul/2023 04:53:16] [33m"GET /assets/js/main.js HTTP/1.1" 404 2228[0m
+[08/Jul/2023 04:53:16] [33m"GET /assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1" 404 2321[0m
+[08/Jul/2023 04:53:16] [m"GET / HTTP/1.1" 200 11914[0m
+Not Found: /assets/vendor/purecounter/purecounter_vanilla.js
+Not Found: /assets/vendor/glightbox/js/glightbox.min.js
+[08/Jul/2023 04:53:16] [33m"GET /assets/vendor/purecounter/purecounter_vanilla.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/vendor/isotope-layout/isotope.pkgd.min.js
+Not Found: /assets/vendor/swiper/swiper-bundle.min.js
+[08/Jul/2023 04:53:16] [33m"GET /assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/vendor/waypoints/noframework.waypoints.js
+[08/Jul/2023 04:53:16] [33m"GET /assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1" 404 2306[0m
+Not Found: /assets/vendor/bootstrap/js/bootstrap.bundle.min.js
+[08/Jul/2023 04:53:16] [33m"GET /assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1" 404 2300[0m
+[08/Jul/2023 04:53:16] [33m"GET /assets/vendor/waypoints/noframework.waypoints.js HTTP/1.1" 404 2321[0m
+[08/Jul/2023 04:53:16] [33m"GET /assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 404 2327[0m
+Not Found: /assets/js/main.js
+Not Found: /assets/vendor/php-email-form/validate.js
+[08/Jul/2023 04:53:16] [33m"GET /assets/js/main.js HTTP/1.1" 404 2228[0m
+[08/Jul/2023 04:53:16] [33m"GET /assets/vendor/php-email-form/validate.js HTTP/1.1" 404 2297[0m
+[08/Jul/2023 04:53:46] [m"GET / HTTP/1.1" 200 11044[0m
+Not Found: /assets/vendor/waypoints/noframework.waypoints.js
+Not Found: /assets/vendor/bootstrap/js/bootstrap.bundle.min.js
+Not Found: /assets/vendor/isotope-layout/isotope.pkgd.min.js
+Not Found: /assets/vendor/purecounter/purecounter_vanilla.js
+[08/Jul/2023 04:53:46] [33m"GET /assets/vendor/waypoints/noframework.waypoints.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/vendor/swiper/swiper-bundle.min.js
+[08/Jul/2023 04:53:46] [33m"GET /assets/vendor/purecounter/purecounter_vanilla.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/vendor/glightbox/js/glightbox.min.js
+[08/Jul/2023 04:53:46] [33m"GET /assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 404 2327[0m
+[08/Jul/2023 04:53:46] [33m"GET /assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1" 404 2321[0m
+[08/Jul/2023 04:53:46] [33m"GET /assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1" 404 2300[0m
+[08/Jul/2023 04:53:46] [33m"GET /assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1" 404 2306[0m
+Not Found: /assets/vendor/php-email-form/validate.js
+Not Found: /assets/js/main.js
+[08/Jul/2023 04:53:46] [33m"GET /assets/vendor/php-email-form/validate.js HTTP/1.1" 404 2297[0m
+[08/Jul/2023 04:53:46] [33m"GET /assets/js/main.js HTTP/1.1" 404 2228[0m
+[08/Jul/2023 04:54:52] [m"GET /static/assets/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 589307[0m
+[08/Jul/2023 05:04:56] [m"GET / HTTP/1.1" 200 11044[0m
+Not Found: /assets/vendor/purecounter/purecounter_vanilla.js
+Not Found: /assets/vendor/bootstrap/js/bootstrap.bundle.min.js
+[08/Jul/2023 05:04:56] [33m"GET /assets/vendor/purecounter/purecounter_vanilla.js HTTP/1.1" 404 2321[0m
+[08/Jul/2023 05:04:56] [33m"GET /assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 404 2327[0m
+Not Found: /assets/vendor/isotope-layout/isotope.pkgd.min.js
+Not Found: /assets/vendor/glightbox/js/glightbox.min.js
+Not Found: /assets/vendor/swiper/swiper-bundle.min.js
+Not Found: /assets/vendor/waypoints/noframework.waypoints.js
+[08/Jul/2023 05:04:56] [33m"GET /assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1" 404 2321[0m
+[08/Jul/2023 05:04:56] [33m"GET /assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1" 404 2300[0m
+[08/Jul/2023 05:04:56] [33m"GET /assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1" 404 2306[0m
+[08/Jul/2023 05:04:56] [33m"GET /assets/vendor/waypoints/noframework.waypoints.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/vendor/php-email-form/validate.js
+Not Found: /assets/js/main.js
+[08/Jul/2023 05:04:56] [33m"GET /assets/js/main.js HTTP/1.1" 404 2228[0m
+[08/Jul/2023 05:04:56] [33m"GET /assets/vendor/php-email-form/validate.js HTTP/1.1" 404 2297[0m
+[08/Jul/2023 05:04:56] [m"GET /static/assets/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 589307[0m
+[08/Jul/2023 05:04:57] [m"GET / HTTP/1.1" 200 11044[0m
+Not Found: /assets/vendor/glightbox/js/glightbox.min.js
+Not Found: /assets/vendor/waypoints/noframework.waypoints.js
+Not Found: /assets/vendor/swiper/swiper-bundle.min.js
+Not Found: /assets/vendor/bootstrap/js/bootstrap.bundle.min.js
+[08/Jul/2023 05:04:57] [33m"GET /assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1" 404 2306[0m
+Not Found: /assets/vendor/isotope-layout/isotope.pkgd.min.js
+[08/Jul/2023 05:04:57] [33m"GET /assets/vendor/waypoints/noframework.waypoints.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/vendor/purecounter/purecounter_vanilla.js
+[08/Jul/2023 05:04:57] [33m"GET /assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1" 404 2300[0m
+[08/Jul/2023 05:04:57] [33m"GET /assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 404 2327[0m
+[08/Jul/2023 05:04:57] [33m"GET /assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1" 404 2321[0m
+[08/Jul/2023 05:04:57] [33m"GET /assets/vendor/purecounter/purecounter_vanilla.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/js/main.js
+Not Found: /assets/vendor/php-email-form/validate.js
+[08/Jul/2023 05:04:57] [33m"GET /assets/js/main.js HTTP/1.1" 404 2228[0m
+[08/Jul/2023 05:04:57] [33m"GET /assets/vendor/php-email-form/validate.js HTTP/1.1" 404 2297[0m
+[08/Jul/2023 05:04:57] [m"GET /static/assets/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 589307[0m
+[08/Jul/2023 05:04:57] [m"GET / HTTP/1.1" 200 11044[0m
+Not Found: /assets/vendor/bootstrap/js/bootstrap.bundle.min.js
+Not Found: /assets/vendor/glightbox/js/glightbox.min.js
+Not Found: /assets/vendor/purecounter/purecounter_vanilla.js
+Not Found: /assets/vendor/isotope-layout/isotope.pkgd.min.js
+[08/Jul/2023 05:04:57] [33m"GET /assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 404 2327[0m
+Not Found: /assets/vendor/swiper/swiper-bundle.min.js
+[08/Jul/2023 05:04:57] [33m"GET /assets/vendor/purecounter/purecounter_vanilla.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/vendor/waypoints/noframework.waypoints.js
+[08/Jul/2023 05:04:57] [33m"GET /assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1" 404 2306[0m
+[08/Jul/2023 05:04:57] [33m"GET /assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1" 404 2321[0m
+[08/Jul/2023 05:04:57] [33m"GET /assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1" 404 2300[0m
+Not Found: /assets/vendor/php-email-form/validate.js
+[08/Jul/2023 05:04:57] [33m"GET /assets/vendor/waypoints/noframework.waypoints.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/js/main.js
+[08/Jul/2023 05:04:57] [33m"GET /assets/vendor/php-email-form/validate.js HTTP/1.1" 404 2297[0m
+[08/Jul/2023 05:04:57] [33m"GET /assets/js/main.js HTTP/1.1" 404 2228[0m
+[08/Jul/2023 05:04:57] [m"GET /static/assets/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 589307[0m
+[08/Jul/2023 05:04:57] [m"GET / HTTP/1.1" 200 11044[0m
+Not Found: /assets/vendor/bootstrap/js/bootstrap.bundle.min.js
+Not Found: /assets/vendor/glightbox/js/glightbox.min.js
+Not Found: /assets/vendor/swiper/swiper-bundle.min.js
+[08/Jul/2023 05:04:57] [33m"GET /assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1" 404 2306[0m
+Not Found: /assets/vendor/purecounter/purecounter_vanilla.js
+[08/Jul/2023 05:04:57] [33m"GET /assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 404 2327[0m
+Not Found: /assets/vendor/isotope-layout/isotope.pkgd.min.js
+[08/Jul/2023 05:04:57] [33m"GET /assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1" 404 2300[0m
+[08/Jul/2023 05:04:57] [33m"GET /assets/vendor/purecounter/purecounter_vanilla.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/vendor/waypoints/noframework.waypoints.js
+Not Found: /assets/vendor/php-email-form/validate.js
+Not Found: /assets/js/main.js
+[08/Jul/2023 05:04:57] [33m"GET /assets/vendor/php-email-form/validate.js HTTP/1.1" 404 2297[0m
+[08/Jul/2023 05:04:57] [33m"GET /assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1" 404 2321[0m
+[08/Jul/2023 05:04:57] [33m"GET /assets/vendor/waypoints/noframework.waypoints.js HTTP/1.1" 404 2321[0m
+[08/Jul/2023 05:04:57] [33m"GET /assets/js/main.js HTTP/1.1" 404 2228[0m
+[08/Jul/2023 05:04:57] [m"GET /static/assets/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 589307[0m
+[08/Jul/2023 05:04:57] [m"GET / HTTP/1.1" 200 11044[0m
+Not Found: /assets/vendor/glightbox/js/glightbox.min.js
+Not Found: /assets/vendor/bootstrap/js/bootstrap.bundle.min.js
+Not Found: /assets/vendor/purecounter/purecounter_vanilla.js
+[08/Jul/2023 05:04:58] [33m"GET /assets/vendor/purecounter/purecounter_vanilla.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/vendor/waypoints/noframework.waypoints.js
+[08/Jul/2023 05:04:58] [33m"GET /assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1" 404 2306[0m
+[08/Jul/2023 05:04:58] [33m"GET /assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 404 2327[0m
+Not Found: /assets/vendor/isotope-layout/isotope.pkgd.min.js
+[08/Jul/2023 05:04:58] [33m"GET /assets/vendor/waypoints/noframework.waypoints.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/vendor/swiper/swiper-bundle.min.js
+[08/Jul/2023 05:04:58] [33m"GET /assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/vendor/php-email-form/validate.js
+Not Found: /assets/js/main.js
+[08/Jul/2023 05:04:58] [33m"GET /assets/vendor/php-email-form/validate.js HTTP/1.1" 404 2297[0m
+[08/Jul/2023 05:04:58] [33m"GET /assets/js/main.js HTTP/1.1" 404 2228[0m
+[08/Jul/2023 05:04:58] [33m"GET /assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1" 404 2300[0m
+[08/Jul/2023 05:04:58] [m"GET /static/assets/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 589307[0m
+[08/Jul/2023 05:04:58] [m"GET / HTTP/1.1" 200 11044[0m
+Not Found: /assets/vendor/glightbox/js/glightbox.min.js
+Not Found: /assets/vendor/waypoints/noframework.waypoints.js
+[08/Jul/2023 05:04:58] [33m"GET /assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1" 404 2306[0m
+Not Found: /assets/vendor/bootstrap/js/bootstrap.bundle.min.js
+Not Found: /assets/vendor/purecounter/purecounter_vanilla.js
+[08/Jul/2023 05:04:58] [33m"GET /assets/vendor/waypoints/noframework.waypoints.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/vendor/isotope-layout/isotope.pkgd.min.js
+[08/Jul/2023 05:04:58] [33m"GET /assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 404 2327[0m
+[08/Jul/2023 05:04:58] [33m"GET /assets/vendor/purecounter/purecounter_vanilla.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/vendor/swiper/swiper-bundle.min.js
+[08/Jul/2023 05:04:58] [33m"GET /assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/vendor/php-email-form/validate.js
+Not Found: /assets/js/main.js
+[08/Jul/2023 05:04:58] [33m"GET /assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1" 404 2300[0m
+[08/Jul/2023 05:04:58] [33m"GET /assets/vendor/php-email-form/validate.js HTTP/1.1" 404 2297[0m
+[08/Jul/2023 05:04:58] [33m"GET /assets/js/main.js HTTP/1.1" 404 2228[0m
+[08/Jul/2023 05:04:58] [m"GET /static/assets/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 589307[0m
+[08/Jul/2023 05:04:58] [m"GET / HTTP/1.1" 200 11044[0m
+Not Found: /assets/vendor/purecounter/purecounter_vanilla.js
+[08/Jul/2023 05:04:58] [33m"GET /assets/vendor/purecounter/purecounter_vanilla.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/vendor/glightbox/js/glightbox.min.js
+Not Found: /assets/vendor/bootstrap/js/bootstrap.bundle.min.js
+Not Found: /assets/vendor/waypoints/noframework.waypoints.js
+[08/Jul/2023 05:04:58] [33m"GET /assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 404 2327[0m
+[08/Jul/2023 05:04:58] [33m"GET /assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1" 404 2306[0m
+Not Found: /assets/vendor/swiper/swiper-bundle.min.js
+[08/Jul/2023 05:04:58] [33m"GET /assets/vendor/waypoints/noframework.waypoints.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/vendor/isotope-layout/isotope.pkgd.min.js
+[08/Jul/2023 05:04:58] [33m"GET /assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1" 404 2300[0m
+[08/Jul/2023 05:04:58] [33m"GET /assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/js/main.js
+Not Found: /assets/vendor/php-email-form/validate.js
+[08/Jul/2023 05:04:58] [33m"GET /assets/js/main.js HTTP/1.1" 404 2228[0m
+[08/Jul/2023 05:04:58] [33m"GET /assets/vendor/php-email-form/validate.js HTTP/1.1" 404 2297[0m
+[08/Jul/2023 05:04:58] [m"GET /static/assets/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 589307[0m
+[08/Jul/2023 05:04:58] [m"GET / HTTP/1.1" 200 11044[0m
+Not Found: /assets/vendor/purecounter/purecounter_vanilla.js
+Not Found: /assets/vendor/swiper/swiper-bundle.min.js
+Not Found: /assets/vendor/isotope-layout/isotope.pkgd.min.js
+[08/Jul/2023 05:04:58] [33m"GET /assets/vendor/purecounter/purecounter_vanilla.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/vendor/bootstrap/js/bootstrap.bundle.min.js
+[08/Jul/2023 05:04:58] [33m"GET /assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/vendor/waypoints/noframework.waypoints.js
+[08/Jul/2023 05:04:58] [33m"GET /assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1" 404 2300[0m
+Not Found: /assets/vendor/glightbox/js/glightbox.min.js
+[08/Jul/2023 05:04:58] [33m"GET /assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 404 2327[0m
+[08/Jul/2023 05:04:58] [33m"GET /assets/vendor/waypoints/noframework.waypoints.js HTTP/1.1" 404 2321[0m
+[08/Jul/2023 05:04:58] [33m"GET /assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1" 404 2306[0m
+Not Found: /assets/vendor/php-email-form/validate.js
+Not Found: /assets/js/main.js
+[08/Jul/2023 05:04:58] [33m"GET /assets/vendor/php-email-form/validate.js HTTP/1.1" 404 2297[0m
+[08/Jul/2023 05:04:58] [33m"GET /assets/js/main.js HTTP/1.1" 404 2228[0m
+[08/Jul/2023 05:04:58] [m"GET /static/assets/vendor/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 589307[0m
+[08/Jul/2023 05:05:01] [m"GET / HTTP/1.1" 200 11044[0m
+Not Found: /assets/vendor/swiper/swiper-bundle.min.js
+Not Found: /assets/vendor/bootstrap/js/bootstrap.bundle.min.js
+[08/Jul/2023 05:05:01] [33m"GET /assets/vendor/swiper/swiper-bundle.min.js HTTP/1.1" 404 2300[0m
+Not Found: /assets/vendor/glightbox/js/glightbox.min.js
+[08/Jul/2023 05:05:01] [33m"GET /assets/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 404 2327[0m
+Not Found: /assets/vendor/isotope-layout/isotope.pkgd.min.js
+[08/Jul/2023 05:05:01] [33m"GET /assets/vendor/glightbox/js/glightbox.min.js HTTP/1.1" 404 2306[0m
+Not Found: /assets/vendor/purecounter/purecounter_vanilla.js
+[08/Jul/2023 05:05:01] [33m"GET /assets/vendor/isotope-layout/isotope.pkgd.min.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/vendor/waypoints/noframework.waypoints.js
+[08/Jul/2023 05:05:01] [33m"GET /assets/vendor/purecounter/purecounter_vanilla.js HTTP/1.1" 404 2321[0m
+Not Found: /assets/vendor/php-email-form/validate.js
+Not Found: /assets/js/main.js
+[08/Jul/2023 05:05:01] [33m"GET /assets/vendor/php-email-form/validate.js HTTP/1.1" 404 2297[0m
+[08/Jul/2023 05:05:01] [33m"GET /assets/vendor/waypoints/noframework.waypoints.js HTTP/1.1" 404 2321[0m
+[08/Jul/2023 05:05:01] [33m"GET /assets/js/main.js HTTP/1.1" 404 2228[0m
+^C[0m[0m[?2004h]0;student@user-H410M-S2-V3: ~/yash/webdev[01;32mstudent@user-H410M-S2-V3[00m:[01;34m~/yash/webdev[00m$ 
+[?2004l[?2004h]0;student@user-H410M-S2-V3: ~/yash/webdev[01;32mstudent@user-H410M-S2-V3[00m:[01;34m~/yash/webdev[00m$ 
+[?2004l[?2004h]0;student@user-H410M-S2-V3: ~/yash/webdev[01;32mstudent@user-H410M-S2-V3[00m:[01;34m~/yash/webdev[00m$ 
+[?2004l[?2004h]0;student@user-H410M-S2-V3: ~/yash/webdev[01;32mstudent@user-H410M-S2-V3[00m:[01;34m~/yash/webdev[00m$ 
+[?2004l[?2004h]0;student@user-H410M-S2-V3: ~/yash/webdev[01;32mstudent@user-H410M-S2-V3[00m:[01;34m~/yash/webdev[00m$ python3.10 manage.py runserver
+[?2004lWatching for file changes with StatReloader
+Performing system checks...
+
+System check identified no issues (0 silenced).
+[31m
+You have 18 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.[0m
+[31mRun 'python manage.py migrate' to apply them.[0m
+July 08, 2023 - 05:05:21
+Django version 3.2.12, using settings 'webdev.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
